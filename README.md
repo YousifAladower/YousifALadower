@@ -1,7 +1,3 @@
-### Hi there 👋 ,I'm Yousif Aladower
-
-<!--
-**YousifAladower/YousifALadower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 I'm a Senior Software Engineer and a full stack web developer 
