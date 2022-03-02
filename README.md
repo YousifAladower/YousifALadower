@@ -15,7 +15,7 @@
 
 
 
-‘‰ Programming languages
+👉 Programming languages
 
 <p align="left"> 
   &emsp; 
@@ -100,7 +100,7 @@
   </a>
  </p>
 
- ### ًں‘‰ Software & Tools
+👉 Software & Tools
  
 <p>
   &emsp;
@@ -126,42 +126,14 @@
 
 <br/>
 
-## ًں“ٹ Github Stats (Expand to View) 
-
-
-<details> 
-  <summary><b>ًں’» GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=candida18&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=candida18&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
-
-
-<details>
-  <summary><b>âڑ، Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/Candida18"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=candida18&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
 
 <br/>
-
-## ًں™‹â€چâ™€ï¸ڈ Let's Connect
+👉 Let's Connect
 <p align="center">
-  <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:candida.noronha18@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/Candida18"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://linkedin.com/in/candida-ruth-noronha-b019101ab"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/candida.noronha.77"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://instagram.com/candyyyy__18"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
+
+	<a href="mailto:candida.aladowr@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/YousifAladower"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	
 	
 </p>
 
