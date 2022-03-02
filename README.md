@@ -127,17 +127,14 @@
 <br/>
 
 
-<br/>
-👉 Let's Connect
-<p align="center">
 
+
+## 🙋‍♀️ Let's Connect
+<p align="center">
 	<a href="mailto:candida.aladowr@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/YousifAladower"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	
-	
 </p>
-
-<hr/>
 
 
 
