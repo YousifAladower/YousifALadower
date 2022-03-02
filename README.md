@@ -125,11 +125,38 @@
 </p>
 
 <br/>
+<br/>
+
+## 📊 Github Stats (Expand to View) 
+
+
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/YousifAladower/github-readme-stats"><img alt="YousifAladower Github Stats" src="https://github-readme-stats.vercel.app/api?username=YousifAladower8&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YousifAladower8&show_icons=true&locale=en&layout=compact&theme=algolia" alt="YousifAladower" height="192px"/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+</details>
+
+
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/Candida18"><img alt="YousifAladower Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=YousifAladower
+8&custom_title=YousifAladower's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+</details>
 
 
 
 
-## 🙋‍♀️ Let's Connect
+ Let's Connect
 <p align="center">
 	<a href="mailto:candida.aladowr@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/YousifAladower"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
