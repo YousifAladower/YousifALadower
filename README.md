@@ -77,6 +77,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
+<div align="center" dir="auto">
+    <a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="" align="center" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" style="max-width: 100%;"></a></div>
+
 
 
 
