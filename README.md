@@ -74,9 +74,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YousifALadower&show_icons=true&theme=radical)
 
 <hr/>
-<div align="center" dir="auto">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
-</div>
+
 
 
 
