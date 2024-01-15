@@ -66,8 +66,8 @@
 	<a href="https://github.com/YousifAladower"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	
 </p>
-<be<
-	<div align="center" dir="auto">
+<be>
+	  <div align="center" dir="auto">
        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YousifALadower&hide_progress=true)
           </div>
 
