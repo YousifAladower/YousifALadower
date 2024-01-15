@@ -74,7 +74,6 @@
 <div align="center" dir="auto">
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api/top-langs/?username=YousifALadower&hide_progress=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousifALadower&hide_progress=true" align="center" data-canonical-src="[https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=tru](https://github-readme-stats.vercel.app/api/top-langs/?username=YousifALadower&hide_progress=true)https://github-readme-stats.vercel.app/api/top-langs/?username=YousifALadower&hide_progress=truee" style="max-width: 100%;"></a></div>
 <h2>📊 Github Stats.....</h2>    
-<hr/>
 <div align="center" dir="auto">
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=YousifALadower&show_icons=true&theme=radical"><img src="https://github-readme-stats.vercel.app/api?username=YousifALadower&show_icons=true&theme=radical" align="center" data-canonical-src="https://github-readme-stats.vercel.app/api?username=YousifALadower&show_icons=true&theme=radical" style="max-width: 100%;"></a></div>
 
