@@ -72,7 +72,9 @@
 
 <h2>📈 my github stats.....</h2>    
 <div align="center" dir="auto">
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=YousifALadower&show_icons=true&theme=radical"><img src="https://github-readme-stats.vercel.app/api?username=YousifALadower&show_icons=true&theme=radical" align="center" data-canonical-src="https://github-readme-stats.vercel.app/api?username=YousifALadower&show_icons=true&theme=radical" style="max-width: 100%;"></a></div>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=YousifALadower&show_icons=true&theme=radical"><img src="https://github-readme-stats.vercel.app/api?username=YousifALadower&show_icons=true&theme=radical" align="center" data-canonical-src="https://github-readme-stats.vercel.app/api?username=YousifALadower&show_icons=true&theme=radical" style="max-width: 100%;"></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YousifALadower&show_icons=true&theme=transparent)
+</div>
 
 
 
