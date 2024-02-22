@@ -29,11 +29,6 @@
 
 <br/>
 
-<h2>📈 my github stats.....</h2>    
-<div align="center" dir="auto">
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=YousifALadower&show_icons=true&theme=radical"><img src="https://github-readme-stats.vercel.app/api?username=YousifALadower&show_icons=true&theme=radical" align="center" data-canonical-src="https://github-readme-stats.vercel.app/api?username=YousifALadower&show_icons=true&theme=radical" style="max-width: 100%;"></a>
-
-</div>
 
 ## 🛠️ Programming Languages and tools.....
 
@@ -88,7 +83,8 @@
 
 </td></tr></table>  
 
-<br/>  
+<br/> 
+<hr/>
  👉 Let's Connect
 <p align="center">
 	<a href="mailto:candida.aladowr@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
