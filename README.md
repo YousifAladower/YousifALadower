@@ -5,7 +5,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Senior+Software+Developer;from+Sana'a+University;in+Yemen+in+2019+with+a+Bachelor's;degree+in+Software+Engineering;Full+Stack+Web+Developer;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">💗 I'm specialized  about systems analysis and database analysis and design .I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="center">💗 I'm specialized  in systems analysis and database analysis and design.I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
 
 
@@ -21,8 +21,7 @@
 
 | Stats    | Streak    |
 | :---: | :---: |
-|<a href="https://github.com/YousifALadower">
-<img alt="YousifALadower's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YousifALadower&show_icons=true&count_private=true&show_owner=true" height="190px"/></a>|
+|<a href="https://github.com/YousifALadower"><img alt="YousifALadower's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YousifALadower&show_icons=true&count_private=true&show_owner=true" height="190px"/></a>|
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YousifALadower&show_owner=true" alt="YousifALadower"/>|
 
 
