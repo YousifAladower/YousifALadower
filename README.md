@@ -21,7 +21,7 @@
 
 | Stats    | Streak    |
 | :---: | :---: |
-|<a href="https://github.com/YousifALadower"><img alt="YousifALadower's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YousifALadower&show_icons=true&count_private=true&show_owner=true" height="190px"/></a>|<img src="https://streak-stats.demolab.com?user=YousifAladower&theme=dark&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" />|
+|<a href="https://github.com/YousifALadower"><img alt="YousifALadower's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YousifALadower&show_icons=true&count_private=true&show_owner=true" height="190px"/></a>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=YousifALadower&show_owner=true" alt="YousifALadower"/>|
 
 
 <br/>  
