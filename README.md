@@ -1,112 +1,28 @@
-
-
-<h1 align="center">Hi , I'm  Yousif Aladower <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Yousif Aladower</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Senior+Software+Developer;from+Sana'a+University;in+Yemen+in+2019+with+a+Bachelor's;degree+in+Software+Engineering;Full+Stack+Web+Developer;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <strong>Senior Full-Stack Engineer</strong><br/>
+  Systems analysis · Database design · End-to-end web products
 </p>
-<hr/>
-<h4 align="center">💗 I'm specialized  in systems analysis and database analysis and design.I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
-<br>
-
-
-
-<br/>
-<br/>
-
-
-
-<br/>  
-
-## 🔥 Streak Stats
-
-| Stats    | Streak    |
+<p align="center">
+  <a href="mailto:candida.aladowr@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0A66C2?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/YousifALadower"><img src="https://img.shields.io/badge/GitHub-YousifALadower-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+---
+### About
+- B.Sc. in Software Engineering — Sana'a University (2019)
+- Focused on systems analysis and database analysis & design
+- Build and ship full-stack applications across frontend, APIs, and data layers
+- Open to collaboration on well-scoped, high-impact engineering work
+### Stack
+**Frontend**  
+`Angular` · `Vue.js` · `JavaScript` · `HTML5` · `CSS3` · `Bootstrap` · `Chart.js`
+**Backend**  
+`C#` · `.NET` · `.NET Core` · `Node.js` · `PHP` · `Laravel` · `Python` · `C++`
+**Data & tooling**  
+`Oracle` · `MariaDB` · `MongoDB` · `Firebase` · `Git` · `Linux`
+### GitHub
+| Stats | Streak |
 | :---: | :---: |
-|<a href="https://github.com/YousifALadower"><img alt="YousifALadower's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YousifALadower&show_icons=true&count_private=true&show_owner=true" height="190px"/></a>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=YousifALadower&show_owner=true" alt="YousifALadower"/>|
-
-
-<br/>  
-
-
-<br/>
-
-
-## 🛠️ Programming Languages and tools.....
-
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />  
-   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
-
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" />  
-   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
-   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
-   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Others
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" />  
-</div>
-
-</td></tr></table>  
-
-<br/> 
-<hr/>
- 👉 Let's Connect
-<p align="center">
-	<a href="mailto:candida.aladowr@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/YousifAladower"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	
-</p>
-<hr/>
-
-
-## Thanks for visiting
-
-<p align="center"> 
-<img src="https://profile-counter.glitch.me/YousifALadower/count.svg">  
-
-Counting of visitors to this page in this section started from SEP 27, 2024
-
-
-<a href="https://info.flagcounter.com/mW2n"><img src="https://s01.flagcounter.com/count2/mW2n/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-</a>
-
-
-
-
-
-
+| <a href="https://github.com/YousifALadower"><img alt="YousifALadower's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YousifALadower&show_icons=true&count_private=true&hide_title=true" height="160"/></a> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=YousifALadower&hide_border=true" alt="GitHub Streak" height="160"/> |
+---
+<p align="center">Let's build something solid.</p>
