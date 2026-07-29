@@ -42,12 +42,12 @@ I graduated from Sana'a University in 2019 with a Bachelor's degree in Software 
 My work focuses on designing and building secure, scalable, maintainable, and multilingual business systems using modern software architecture and development practices.
 
 * 🏥 Experienced in hospital, clinic, appointment, contract, and enterprise management systems.
-* 📍 Building web and mobile systems for employee attendance and real-time location tracking.
+* 💻 Building secure, scalable, and user-friendly web and mobile systems that solve real-world business and operational challenges.
 * 🧠 Specialized in systems analysis, requirements analysis, and database design.
 * 🏗️ Interested in Clean Architecture, Domain-Driven Design, CQRS, and modular systems.
 * 🔐 Focused on application security, performance, maintainability, and scalability.
 * 🌍 Building multilingual applications with Arabic and English RTL/LTR support.
-* 🤖 Using AI-assisted development tools to improve software planning, coding, review, and documentation.
+* * 🤖 Building intelligent system integrations with AI models to automate workflows, assist users through chatbots, generate reports, analyze data, and improve operational decision-making.
 * 📚 Continuously learning new technologies and software architecture patterns.
 
 ---
@@ -63,7 +63,12 @@ My work focuses on designing and building secure, scalable, maintainable, and mu
 * Designing notification systems using the **Outbox Pattern**
 * Creating secure authorization systems using **RBAC and ABAC**
 * Improving application performance, observability, testing, and security
-* Using AI coding agents such as **Codex, Cursor, and OpenCode**
+* Integrating AI models into business systems for workflow automation
+* Building AI-powered assistants and chatbots for user support
+* Generating intelligent reports and summaries from system data
+* Using AI to analyze operational data and support decision-making
+* Designing secure AI integrations that respect system permissions and data privacy
+
 
 ---
 
